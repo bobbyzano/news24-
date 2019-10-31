@@ -1,0 +1,23 @@
+1. handle duplicate registration
+2.implement password strength
+3.password reset
+4.picture or file uploads
+5.email confirmation
+6. access control
+ -deactivate account
+ -block user
+7.mailing list
+8.comment section
+9.hosting
+
+
+
+assignemet
+ use the logic you used for registration and run articles
+ * create a table database
+ columns
+ -author 2
+ -date 5
+ -id 1
+ -title 3
+ -body 4
